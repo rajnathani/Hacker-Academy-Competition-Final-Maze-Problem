@@ -1,5 +1,4 @@
-Hacker-Academy-Competition-Final-Maze-Problem
-=============================================
+##Hacker Academy Competition: Maze Problem
 
 Solution to a maze problem given as the final problem on a Hacker Academy competition.
 
